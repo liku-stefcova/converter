@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Upload xlsx file</title>
+</head>
+<body>
+    <p>Vlož exel file s dozory</p>
+    <form action = "{% url 'converter:upload-form' %}" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>

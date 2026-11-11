@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45e98a67-ec99-4d45-bdde-3ad9603ed4c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/django_timetable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/templates/converter/upload_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/converter/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/timebable/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/timebable/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/timebable/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/timebable/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timebable/timebable/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000013336913" />
+      <entry key="MS500" value="1.0266079283671545" />
+      <entry key="S2" value="1.403880388994352" />
+      <entry key="S5" value="1.6959761443479109" />
+      <entry key="S10" value="1.8533838007907377" />
+      <entry key="S30" value="2.639890047220804" />
+      <entry key="S60" value="4.0949367620833925" />
+      <entry key="M2" value="7.30953814377311" />
+      <entry key="M5" value="18.828650384080152" />
+      <entry key="M10" value="36.76946248659669" />
+      <entry key="M15" value="51.04302650044838" />
+      <entry key="M30" value="80.19444548010354" />
+      <entry key="H1" value="110.1595047321672" />
+      <entry key="H2" value="133.9490094714651" />
+      <entry key="H4" value="149.38825427636576" />
+      <entry key="D1" value="164.64537018981497" />
+      <entry key="W1" value="167.5141032996103" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.2500552375145951E-167" />
+      <entry key="MS500" value="4.162802826895052E-34" />
+      <entry key="S2" value="4.516962241611399E-9" />
+      <entry key="S5" value="4.591330797672243E-4" />
+      <entry key="S10" value="0.021427390876334534" />
+      <entry key="S30" value="0.2777515435564924" />
+      <entry key="S60" value="0.5272010047625939" />
+      <entry key="M2" value="0.7395126290275119" />
+      <entry key="M5" value="1.1155472534597057" />
+      <entry key="M10" value="1.8301179976004667" />
+      <entry key="M15" value="2.5067196394465205" />
+      <entry key="M30" value="3.997042432966832" />
+      <entry key="H1" value="5.619442581518328" />
+      <entry key="H2" value="6.971386943863171" />
+      <entry key="H4" value="7.878102869812858" />
+      <entry key="D1" value="8.795541643985068" />
+      <entry key="W1" value="8.97032579496391" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8888426811667356" />
+      <entry key="MS500" value="0.9794860239047807" />
+      <entry key="S2" value="1.2236946144074348" />
+      <entry key="S5" value="1.5532391286727933" />
+      <entry key="S10" value="1.7814910625435647" />
+      <entry key="S30" value="2.8622688234686735" />
+      <entry key="S60" value="4.5778195228124" />
+      <entry key="M2" value="8.01114999993029" />
+      <entry key="M5" value="19.902345079772385" />
+      <entry key="M10" value="38.56012577225481" />
+      <entry key="M15" value="53.51520291865854" />
+      <entry key="M30" value="84.1672010823724" />
+      <entry key="H1" value="115.76374932041824" />
+      <entry key="H2" value="140.9116848971259" />
+      <entry key="H4" value="157.26165441231103" />
+      <entry key="D1" value="173.4400721598738" />
+      <entry key="W1" value="176.4843076563342" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KBCqDXf7V7chQpVHyy9gYf0rZS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.rename.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/liku/PycharmProjects/syruckova",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "notes": "Kde jsem skončil:\n\n-pracuji s excelem\n- posledni v diskuse v chatu\n",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e98a67-ec99-4d45-bdde-3ad9603ed4c3" name="Changes" comment="" />
+      <created>1791021763643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791021763643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/timebable/timebable/urls.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
